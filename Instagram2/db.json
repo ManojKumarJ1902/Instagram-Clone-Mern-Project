@@ -1,0 +1,199 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "arun_rocks",
+        "profilePic": "/assets/profilePic1.jpg"
+      },
+      "image": "/assets/post1.jpg",
+      "caption": "Sunset vibes ",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "priya_star",
+          "comment": "Wow, this looks amazing!"
+        },
+        {
+          "user": "dinesh_95",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2 hours ago"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "priya_star",
+        "profilePic": "/assets/profilePic2.jpg"
+      },
+      "image": "/assets/post2.jpg",
+      "caption": "Cafe mornings ",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "anu_creations",
+          "comment": "Perfect vibes!"
+        }
+      ],
+      "timestamp": "4 hours ago"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "dinesh_95",
+        "profilePic": "/assets/profilePic3.jpg"
+      },
+      "image": "/assets/post3.jpg",
+      "caption": "Workout time ",
+      "likes": 150,
+      "comments": [
+        {
+          "user": "arun_rocks",
+          "comment": "Keep going bro!"
+        }
+      ],
+      "timestamp": "6 hours ago"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "anu_creations",
+        "profilePic": "/assets/profilePic4.jpg"
+      },
+      "image": "/assets/post4.jpg",
+      "caption": "Finished my new painting ",
+      "likes": 210,
+      "comments": [
+        {
+          "user": "priya_star",
+          "comment": "Wow! You are so talented!"
+        },
+        {
+          "user": "dinesh_95",
+          "comment": "Incredible work "
+        }
+      ],
+      "timestamp": "1 day ago"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "travel_with_sam",
+        "profilePic": "/assets/profilePic5.jpg"
+      },
+      "image": "/assets/post5.jpg",
+      "caption": "Exploring the mountains ",
+      "likes": 350,
+      "comments": [
+        {
+          "user": "arun_rocks",
+          "comment": "Where exactly is this?"
+        }
+      ],
+      "timestamp": "1 day ago"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "arun_rocks",
+    "profilePic": "/assets/profilePic1.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "arun_rocks",
+      "profilePic": "/assets/profilePic1.jpg"
+    },
+    {
+      "id": "102",
+      "username": "priya_star",
+      "profilePic": "/assets/profilePic2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "dinesh_95",
+      "profilePic": "/assets/profilePic3.jpg"
+    },
+    {
+      "id": "104",
+      "username": "anu_creations",
+      "profilePic": "/assets/profilePic4.jpg"
+    },
+    {
+      "id": "105",
+      "username": "travel_with_sam",
+      "profilePic": "/assets/profilePic5.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "arun_rocks",
+        "profilePic": "/assets/profilePic1.jpg"
+      },
+      "image": "/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "priya_star",
+        "profilePic": "/assets/profilePic2.jpg"
+      },
+      "image": "/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "dinesh_95",
+        "profilePic": "/assets/profilePic3.jpg"
+      },
+      "image": "/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "anu_creations",
+        "profilePic": "/assets/profilePic4.jpg"
+      },
+      "image": "/assets/story4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "travel_with_sam",
+        "profilePic": "/assets/profilePic5.jpg"
+      },
+      "image": "/assets/story5.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "arun_rocks"
+    },
+    {
+      "id": "103",
+      "username": "dinesh_95"
+    },
+    {
+      "id": "104",
+      "username": "anu_creations"
+    },
+    {
+      "id": "105",
+      "username": "travel_with_sam"
+    }
+  ]
+}
